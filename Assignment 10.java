@@ -1,13 +1,9 @@
 /*Write a Java program to demonstrate the concept of encapsulation by modeling a Book object. The program should include methods for setting and getting the title and author of the book, and a method to display the details of the book.
-
 Task:
-
 Create a class Book with the following private attributes:
-
 title (String)
 author (String)
 Include the following methods in the Book class:
-
 setTitle(String title) to set the title of the book.
 setAuthor(String author) to set the author of the book.
 getTitle() to return the title of the book.
