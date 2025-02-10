@@ -8,7 +8,6 @@ Think of it like a programming puzzle.
 ("passed with presentation error" means you will get full marks)*/
 
 
-
 import java.util.Scanner;
 
 public class W01_P1 {
