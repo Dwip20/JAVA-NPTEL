@@ -1,7 +1,4 @@
 /*Write a Java program to check if a given integer is even or odd.
-
- 
-
 NOTE:
 
 The code you see is not complete.
