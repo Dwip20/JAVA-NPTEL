@@ -1,7 +1,6 @@
 /*Write a Java program to check if a given integer is even or odd.
 NOTE:
 The code you see is not complete.
-
 Your task is to complete the code as per the question.
 Think of it like a programming puzzle.
 
