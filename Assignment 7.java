@@ -16,7 +16,6 @@ Name: <name>
 Age: <age>
 Grade: <grade>*/
 
-
 import java.util.*;
 public class Student {
     String name;
