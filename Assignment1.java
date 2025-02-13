@@ -4,7 +4,6 @@ The code you see is not complete.
 Your task is to complete the code as per the question.
 Think of it like a programming puzzle.
 
-
 (Ignore presentation errors for this and all future programming assignments)
 ("passed with presentation error" means you will get full marks)*/
 
