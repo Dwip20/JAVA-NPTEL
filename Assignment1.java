@@ -18,7 +18,8 @@ if (number%2==0){
   System.out.print("Even");
 }
 
-else{
+else
+{
   System.out.print("Odd");
 
 }   
