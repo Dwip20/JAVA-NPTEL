@@ -19,6 +19,7 @@ if (number%2==0){
 }
 else{
   System.out.print("Odd");
+
 }   
 in.close();
     }
