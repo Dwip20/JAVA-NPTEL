@@ -17,7 +17,6 @@ public class W01_P1 {
 if (number%2==0){
   System.out.print("Even");
 }
-
 else
 {
   System.out.print("Odd");
